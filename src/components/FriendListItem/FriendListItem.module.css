@@ -1,0 +1,26 @@
+.friendItem {
+  width: 90px;
+  gap: 10px;
+  padding: 5px 5px;
+}
+
+.avatarName {
+  font-size: 26px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.status {
+  font-size: 18px;
+  font-weight: 450;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
